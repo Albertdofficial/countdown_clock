@@ -15,6 +15,8 @@ function App() {
 
     console.log(futureDate);
 
+    console.log(futureDate);
+
     seconds = Math.floor((futureDate - dateNow) / 1000);
     minutes = Math.floor(seconds / 60);
     hours = Math.floor(minutes / 60);
@@ -34,7 +36,7 @@ function App() {
       <header>
         <h1>
           {days} days : {hours} hours : {minutes} minutes : {seconds} seconds
-          <p>Before Midterm Exams, Spring Semester 2022</p>
+          <p>Before Final Exams, Spring Semester 2022</p>
         </h1>
       </header>
 
