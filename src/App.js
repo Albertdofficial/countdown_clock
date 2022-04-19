@@ -10,7 +10,7 @@ function App() {
 
   setInterval(function () {
     const yearNow = new Date().getFullYear();
-    const futureDate = new Date(yearNow, 3, 11); //months starts counting from zero
+    const futureDate = new Date(yearNow, 5, 3); //months starts counting from zero
     const dateNow = new Date();
 
     console.log(futureDate);
@@ -31,10 +31,12 @@ function App() {
 
   return (
     <div className="App">
-      <h1>
-        {days} days : {hours} hours : {minutes} minutes : {seconds} seconds
-        <p>Before Midterm Exams, Spring Semester 2022</p>
-      </h1>
+      <header>
+        <h1>
+          {days} days : {hours} hours : {minutes} minutes : {seconds} seconds
+          <p>Before Midterm Exams, Spring Semester 2022</p>
+        </h1>
+      </header>
 
       <footer>
         <p className="developer">Developed by Albert David Bangura</p>
