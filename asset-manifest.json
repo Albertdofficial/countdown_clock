@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/countdown_clock/static/css/main.de753a15.chunk.css",
-    "main.js": "/countdown_clock/static/js/main.1cf8482b.chunk.js",
-    "main.js.map": "/countdown_clock/static/js/main.1cf8482b.chunk.js.map",
+    "main.css": "/countdown_clock/static/css/main.ebf23b74.chunk.css",
+    "main.js": "/countdown_clock/static/js/main.c72ced9a.chunk.js",
+    "main.js.map": "/countdown_clock/static/js/main.c72ced9a.chunk.js.map",
     "runtime-main.js": "/countdown_clock/static/js/runtime-main.20aa8db8.js",
     "runtime-main.js.map": "/countdown_clock/static/js/runtime-main.20aa8db8.js.map",
     "static/js/2.99b2fc69.chunk.js": "/countdown_clock/static/js/2.99b2fc69.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.9f684bb8.chunk.js": "/countdown_clock/static/js/3.9f684bb8.chunk.js",
     "static/js/3.9f684bb8.chunk.js.map": "/countdown_clock/static/js/3.9f684bb8.chunk.js.map",
     "index.html": "/countdown_clock/index.html",
-    "static/css/main.de753a15.chunk.css.map": "/countdown_clock/static/css/main.de753a15.chunk.css.map",
+    "static/css/main.ebf23b74.chunk.css.map": "/countdown_clock/static/css/main.ebf23b74.chunk.css.map",
     "static/js/2.99b2fc69.chunk.js.LICENSE.txt": "/countdown_clock/static/js/2.99b2fc69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20aa8db8.js",
     "static/js/2.99b2fc69.chunk.js",
-    "static/css/main.de753a15.chunk.css",
-    "static/js/main.1cf8482b.chunk.js"
+    "static/css/main.ebf23b74.chunk.css",
+    "static/js/main.c72ced9a.chunk.js"
   ]
 }
