@@ -10,7 +10,7 @@ function App() {
 
   setInterval(function () {
     const yearNow = 2023;
-    const futureDate = new Date(yearNow, 0, 17); //months starts counting from zero
+    const futureDate = new Date(yearNow, 3, 10); //months starts counting from zero
     const dateNow = new Date();
 
     seconds = Math.floor((futureDate - dateNow) / 1000);
@@ -32,7 +32,7 @@ function App() {
       <header>
         <h1>
           {days} days : {hours} hours : {minutes} minutes : {seconds} seconds
-          <p>Before Finals Exams, Fall Semester 2022</p>
+          <p>Midterm Exams, Spring Semester 2023</p>
         </h1>
       </header>
 
